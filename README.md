@@ -1,6 +1,13 @@
 Meeting Agenda
 ==============
 
+Next meeting
+===========
+- rita singh, from CMU, uses voice signal to analyze many things, even can construct the 3D facial structure 
+
+
+
+
 2018-07-15
 ==========
 
