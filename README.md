@@ -9,15 +9,15 @@ Meeting Agenda
 
 Topics
 ------
-- 
-improving CNN with Coord info 
+- improving CNN with Coord info 
 https://www.youtube.com/watch?v=8yFQc6elePA
 
-ML blog
+- ML blog
 https://thegradient.pub
 
-RL should not be trained form scratch 
+- **RL should not be trained form scratch** [Homework Reading]
 https://thegradient.pub/how-to-fix-rl/
+  
 
-Word embedding is soon obsolete?
+- Word embedding is soon obsolete?
 https://thegradient.pub/nlp-imagenet/
