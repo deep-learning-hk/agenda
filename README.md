@@ -7,7 +7,8 @@ Next meeting
   - https://www.youtube.com/watch?v=4HjcQjwKBWM
   - https://www.researchgate.net/scientific-contributions/9403190_Rita_Singh
 - AWS Kinesis: AWS data streaming applications.
-
+- Deep Mutual Learning
+- re-ranking k-reciprocal Encoding
 
 
 
