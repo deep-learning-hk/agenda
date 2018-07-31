@@ -9,6 +9,7 @@ Meeting Agenda
 - AWS Kinesis: AWS data streaming applications.
 - Deep Mutual Learning
 - re-ranking k-reciprocal Encoding
+  - Jaccard Similarity for finding k-reciprocal nearest neighbors
 - Dist-GAN: An Improved GAN using Distance Constraints
   - http://closure11.com/%E5%AF%B9%E6%8A%97%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8%EF%BC%9Aadversarial-autoencoders/
   - https://arxiv.org/abs/1803.08887
