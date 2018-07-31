@@ -10,6 +10,7 @@ Meeting Agenda
 - Deep Mutual Learning
 - re-ranking k-reciprocal Encoding
 - Dist-GAN: An Improved GAN using Distance Constraints
+  - http://closure11.com/%E5%AF%B9%E6%8A%97%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8%EF%BC%9Aadversarial-autoencoders/
   - https://arxiv.org/abs/1803.08887
   - ...constrain the generator by an Autoencoder (AE). We propose a formulation to consider the reconstructed samples from AE as "real" samples for the discriminator. This couples the convergence of the AE with that of the discriminator, effectively slowing down the convergence of discriminator and reducing gradient vanishing. Importantly, we propose two novel distance constraints to improve the generator...
 
