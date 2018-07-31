@@ -14,6 +14,12 @@ Meeting Agenda
   - https://arxiv.org/abs/1803.08887
   - ...constrain the generator by an Autoencoder (AE). We propose a formulation to consider the reconstructed samples from AE as "real" samples for the discriminator. This couples the convergence of the AE with that of the discriminator, effectively slowing down the convergence of discriminator and reducing gradient vanishing. Importantly, we propose two novel distance constraints to improve the generator...
 
+- keras library for reinforcement learning
+  - https://github.com/keras-rl/keras-rl
+  
+- trading gym: openai gym environment for trading
+  - https://github.com/Prediction-Machines/Trading-Gym
+
 Tools:
 -----
 - TextBlob: NLP tool, based on NLTK
