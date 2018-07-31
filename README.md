@@ -24,7 +24,8 @@ Tools:
   - https://doctorj.gitlab.io/sairen/
 - Quandl
 - Numerai: data science competition in Finance
-
+- NVIDIA DeepStream: https://developer.nvidia.com/deepstream-sdk
+- NVIDIA Isaac: https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/
 
 
 2018-07-15
