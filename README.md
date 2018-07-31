@@ -1,7 +1,7 @@
 Meeting Agenda
 ==============
 
-Next meeting
+2018-07-31
 ===========
 - Rita Singh, from CMU, uses voice signal to analyze many things, profiling human from their voice, they even can construct the 3D facial structure from it.
   - https://www.youtube.com/watch?v=4HjcQjwKBWM
@@ -9,6 +9,20 @@ Next meeting
 - AWS Kinesis: AWS data streaming applications.
 - Deep Mutual Learning
 - re-ranking k-reciprocal Encoding
+- Dist-GAN: An Improved GAN using Distance Constraints
+  - https://arxiv.org/abs/1803.08887
+  - ...constrain the generator by an Autoencoder (AE). We propose a formulation to consider the reconstructed samples from AE as "real" samples for the discriminator. This couples the convergence of the AE with that of the discriminator, effectively slowing down the convergence of discriminator and reducing gradient vanishing. Importantly, we propose two novel distance constraints to improve the generator...
+
+Tools:
+-----
+- TextBlob: NLP tool, based on NLTK
+  - https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/
+  - language translation and detection which is powered by Google Translate
+  - Sentiment Analysis
+- Sairen - OpenAI Gym Reinforcement Learning Environment for the Stock Market (real-time)
+  - https://doctorj.gitlab.io/sairen/
+- Quandl
+- Numerai: data science competition in Finance
 
 
 
