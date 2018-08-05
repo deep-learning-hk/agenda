@@ -1,6 +1,16 @@
 Meeting Agenda
 ==============
 
+2018-08-05
+==========
+- R^2 - Coefficient of Determination
+  - https://en.wikipedia.org/wiki/Coefficient_of_determination
+  - Where 1 is the best score
+  - 0 is the score as good/bad as the baseline with predicted value as expected value
+  - (negative score is the score which is worse than the baseline (expected value)
+
+
+
 2018-07-31
 ===========
 - Rita Singh, from CMU, uses voice signal to analyze many things, profiling human from their voice, they even can construct the 3D facial structure from it.
