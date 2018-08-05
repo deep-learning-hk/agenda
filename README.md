@@ -6,11 +6,12 @@ Meeting Agenda
 
 Attention is all you need [paper]
 ------------------------
-  - Paper - https://arxiv.org/abs/1706.03762
-  - Slide deck - https://nlp.stanford.edu/seminar/details/lkaiser.pdf
+- Paper - https://arxiv.org/abs/1706.03762
+- Slide deck - https://nlp.stanford.edu/seminar/details/lkaiser.pdf
 
 Tensor2Tensor [library from Google]
 -------------
+- short summary: https://towardsdatascience.com/tensor2tensor-and-one-model-to-learn-them-all-7ef3f9b61ba4
 
 
 
