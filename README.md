@@ -13,6 +13,19 @@ One Model to Learn them all [paper]
 ---------------------------
 - paper - https://arxiv.org/pdf/1706.05137.pdf
 - Chinese explanation - https://blog.csdn.net/shenxiaolu1984/article/details/73736259
+- Three main neural net structures:
+  1. Depthwise Separable Convolution
+  2. Attention
+  3. Mixture-of-experts layer
+- Main achievements:
+  1. Generalize to different tasks in a single model:
+    - image
+    - text
+    - sound
+    - classification (output)
+  2. Even there are extra components, it won't hinder for other tasks accuracy
+- Main concept:
+  - use Modality Unit to transform any kind of input into universal representation 
 
 Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [paper]
 --------------------------
