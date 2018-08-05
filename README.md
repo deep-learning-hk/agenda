@@ -37,8 +37,8 @@ Tensor2Tensor [library from Google]
 - short summary: https://towardsdatascience.com/tensor2tensor-and-one-model-to-learn-them-all-7ef3f9b61ba4
 
 
-
-
+Misc
+----
 - R^2 - Coefficient of Determination
   - https://en.wikipedia.org/wiki/Coefficient_of_determination
   - Where 1 is the best score
