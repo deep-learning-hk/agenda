@@ -3,11 +3,24 @@ Meeting Agenda
 
 2018-08-05
 ==========
+
+Attention is all you need [paper]
+------------------------
+  - Paper - https://arxiv.org/abs/1706.03762
+  - Slide deck - https://nlp.stanford.edu/seminar/details/lkaiser.pdf
+
+Tensor2Tensor [library from Google]
+-------------
+
+
+
+
 - R^2 - Coefficient of Determination
   - https://en.wikipedia.org/wiki/Coefficient_of_determination
   - Where 1 is the best score
   - 0 is the score as good/bad as the baseline with predicted value as expected value
   - (negative score is the score which is worse than the baseline (expected value)
+  
 
 
 
