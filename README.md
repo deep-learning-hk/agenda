@@ -9,6 +9,16 @@ Attention is all you need [paper]
 - Paper - https://arxiv.org/abs/1706.03762
 - Slide deck - https://nlp.stanford.edu/seminar/details/lkaiser.pdf
 
+One Model to Learn them all [paper]
+---------------------------
+- paper - https://arxiv.org/pdf/1706.05137.pdf
+- Chinese explanation - https://blog.csdn.net/shenxiaolu1984/article/details/73736259
+
+Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [paper]
+--------------------------
+- https://arxiv.org/abs/1701.06538
+- https://medium.com/@thoszymkowiak/google-brains-new-super-fast-and-highly-accurate-ai-the-mixture-of-experts-layer-dd3972c25663
+
 Tensor2Tensor [library from Google]
 -------------
 - short summary: https://towardsdatascience.com/tensor2tensor-and-one-model-to-learn-them-all-7ef3f9b61ba4
