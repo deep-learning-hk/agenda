@@ -1,6 +1,13 @@
 Meeting Agenda
 ==============
 
+2018-08-14
+==========
+
+Theoretical Review of Bayesian Optimization
+-----------------------------------------
+https://ieeexplore.ieee.org/document/7352306/
+
 2018-08-05
 ==========
 
