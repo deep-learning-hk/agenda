@@ -8,6 +8,11 @@ Theoretical Review of Bayesian Optimization
 -----------------------------------------
 https://ieeexplore.ieee.org/document/7352306/
 
+Misc
+----
+- Kappa
+- point cloud
+
 2018-08-05
 ==========
 
