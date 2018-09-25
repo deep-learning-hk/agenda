@@ -1,6 +1,12 @@
 Meeting Agenda
 ==============
 
+2018-09-30
+=========
+- https://hollygrimm.com/syllabus_rl
+
+
+
 2018-08-14
 ==========
 
