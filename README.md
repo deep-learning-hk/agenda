@@ -3,8 +3,9 @@ Meeting Agenda
 
 2018-09-30
 =========
-- https://hollygrimm.com/syllabus_rl
 
+- Reinforcement learning online syllabus: https://hollygrimm.com/syllabus_rl
+- Featuretools
 
 
 2018-08-14
