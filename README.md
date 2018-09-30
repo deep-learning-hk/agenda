@@ -4,6 +4,13 @@ Meeting Agenda
 2018-09-30
 =========
 
+DeepRLBootcamp lab 1
+--------------------
+
+- Value Iteration
+  - Value Function
+  - Policy Function
+
 - Reinforcement learning online syllabus: https://hollygrimm.com/syllabus_rl
 - Featuretools
 - an article about difficutlies of RL: https://bigdatafinance.tw/index.php/tech/data-processing/528-2018-02-27-04-31-42
