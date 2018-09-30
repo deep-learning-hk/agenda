@@ -6,6 +6,8 @@ Meeting Agenda
 
 - Reinforcement learning online syllabus: https://hollygrimm.com/syllabus_rl
 - Featuretools
+- an article about difficutlies of RL: https://bigdatafinance.tw/index.php/tech/data-processing/528-2018-02-27-04-31-42
+- Google Dopamine: https://github.com/google/dopamine
 
 
 2018-08-14
