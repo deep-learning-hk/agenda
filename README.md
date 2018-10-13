@@ -11,7 +11,9 @@ Sharing
   - https://arxiv.org/abs/1810.04805
   - https://www.jiqizhixin.com/articles/2018-10-12-13
 - SHAP: sounds like an improvement of LIME (Model interpretation) - a unified approach to explain the output of any machine learning model. - https://github.com/slundberg/shap
-- Google Facets: Interactive Visualization https://github.com/PAIR-code/facets
+- Google Facets: Interactive Visualization
+  - https://pair-code.github.io/facets/
+  - https://github.com/PAIR-code/facets
 - Google Dataset search: https://toolbox.google.com/datasetsearch
 
 
