@@ -38,7 +38,7 @@ Sharing
   
 ### Anthony
 - Home-Credit sharing
-  - https://www.meetup.com/Hong-Kong-Machine-Learning-Meetup/?_cookie-check=ml3d07vIYsy4XDQ2
+  - https://www.meetup.com/Hong-Kong-Machine-Learning-Meetup
 
 2018-09-30
 =========
