@@ -1,11 +1,8 @@
 Meeting Agenda
 ==============
 
-2018-10-13
+2018-10-14
 =========
-
-wifi: oooshguest
-password: oooshguest
 
 Sharing
 ------
