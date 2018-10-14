@@ -16,6 +16,12 @@ Sharing
   - https://github.com/PAIR-code/facets
 - Google Dataset search: https://toolbox.google.com/datasetsearch
 
+### Pong
+- dvc: data version control for data science projects
+  - https://dvc.org/
+- implicit: collaborative filtering faster than spark
+  - https://github.com/benfred/implicit
+
 
 2018-09-30
 =========
