@@ -25,6 +25,11 @@ Sharing
 - implicit: collaborative filtering faster than spark
   - https://github.com/benfred/implicit
 
+### Victor
+- ActiveQA
+  - https://github.com/google/active-qa
+- Google’s AI Bots
+  - https://gizmodo.com/google-s-ai-bots-invent-ridiculous-new-legs-to-scamper-1829693108
 
 2018-09-30
 =========
