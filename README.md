@@ -30,6 +30,15 @@ Sharing
   - https://github.com/google/active-qa
 - Google’s AI Bots
   - https://gizmodo.com/google-s-ai-bots-invent-ridiculous-new-legs-to-scamper-1829693108
+  
+  
+### Solomon
+- Home-Credit 2nd solution (machine learning pipeline)
+  - https://github.com/neptune-ml/open-solution-home-credit
+  
+### Anthony
+- Home-Credit sharing
+  - https://www.meetup.com/Hong-Kong-Machine-Learning-Meetup/?_cookie-check=ml3d07vIYsy4XDQ2
 
 2018-09-30
 =========
