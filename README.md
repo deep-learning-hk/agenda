@@ -4,6 +4,9 @@ Meeting Agenda
 2018-10-13
 =========
 
+wifi: oooshguest
+password: oooshguest
+
 Sharing
 ------
 ### Kin
