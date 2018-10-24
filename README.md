@@ -1,6 +1,16 @@
 Meeting Agenda
 ==============
 
+2018-10-28
+=========
+
+Sharing
+------
+### Kin
+- 2018 DL & RL Summer School, Toronto
+  Video: http://videolectures.net/DLRLsummerschool2018_toronto/
+
+
 2018-10-14
 =========
 
