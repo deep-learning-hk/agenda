@@ -16,7 +16,13 @@ Sharing
 - NLP Allen NLP - modular tools for many NLP problems
   - https://allennlp.org/
 
+### Roy
+- Kepler - Geo Visualization tool
+  - http://kepler.gl/
 
+### Anthony
+- Google DataStudio
+  - https://datastudio.google.com/u/0/navigation/reporting
 
 2018-10-14
 =========
