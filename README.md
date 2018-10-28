@@ -10,6 +10,13 @@ Sharing
 - 2018 DL & RL Summer School, Toronto
   Video: http://videolectures.net/DLRLsummerschool2018_toronto/
 
+### Dominic
+- Data Visualization Tool in web interface
+  - https://vega.github.io/
+- NLP Allen NLP - modular tools for many NLP problems
+  - https://allennlp.org/
+
+
 
 2018-10-14
 =========
