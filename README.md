@@ -8,9 +8,9 @@ Sharing
 ------
 ### Pong
 - MLflow: An open source platform for the machine learning lifecycle
-  website: https://mlflow.org/
+   - website: https://mlflow.org/
 - Airflow: a platform to programmatically author, schedule, and monitor workflows
-  website: https://airflow.apache.org/
+   - website: https://airflow.apache.org/
 
 
 
