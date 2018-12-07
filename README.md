@@ -1,6 +1,13 @@
 Meeting Agenda
 ==============
 
+2018-12-07
+=====
+
+Sharing
+------
+- ECharts - a visualization tool by Baidu
+
 2018-11-25
 =========
 
