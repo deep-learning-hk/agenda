@@ -6,6 +6,8 @@ Meeting Agenda
 ## Topic Sharing
 
 ### Recommender System - Articles & Users
+- Article De-duplication Using Distributed Representations
+   - https://dl.acm.org/citation.cfm?id=2889355
 - Embedding-based News Recommendation for Millions of Users
    - https://www.kdd.org/kdd2017/papers/view/embedding-based-news-recommendation-for-millions-of-users
 
