@@ -11,7 +11,8 @@ Meeting Agenda
 - Embedding-based News Recommendation for Millions of Users
    - https://www.kdd.org/kdd2017/papers/view/embedding-based-news-recommendation-for-millions-of-users
 
-
+### DVC (Data Science Version Control
+- https://dvc.org/
 
 2018-12-07
 =====
