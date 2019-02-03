@@ -22,6 +22,13 @@ Meeting Agenda
    - https://arxiv.org/abs/1803.09820
    - Ref tutorial link: https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets
    - Keywords: LR Range Test, Cyclic Learning Rate, Super Convergence
+- Facebook Language agnostic NLP
+  - https://github.com/facebookresearch/LASER
+  
+### Kin
+- Ipython Widget - interactive EDA
+
+
 
 2018-12-07
 =====
