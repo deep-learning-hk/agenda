@@ -20,13 +20,17 @@ Meeting Agenda
    - www.comet.ml
 - A paper: A disciplined approach to neural network hyper-parameters: Part 1 - learning rate, batch size, momentum, and weight decay
    - https://arxiv.org/abs/1803.09820
-   - Ref tutorial link: https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets
+   - Ref tutorial link:
+      - https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets
+      - https://medium.com/@lipeng2/cyclical-learning-rates-for-training-neural-networks-4de755927d46
    - Keywords: LR Range Test, Cyclic Learning Rate, Super Convergence
 - Facebook Language agnostic NLP
   - https://github.com/facebookresearch/LASER
   
 ### Kin
 - Ipython Widget - interactive EDA
+   - https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
+   - you can use binder to put it up into the web to visualize it
 
 
 
