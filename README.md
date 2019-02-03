@@ -1,6 +1,16 @@
 Meeting Agenda
 ==============
 
+2019-02-03
+===
+## Topic Sharing
+
+### Recommender System - Articles & Users
+- Embedding-based News Recommendation for Millions of Users
+   - https://www.kdd.org/kdd2017/papers/view/embedding-based-news-recommendation-for-millions-of-users
+
+
+
 2018-12-07
 =====
 
