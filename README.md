@@ -18,6 +18,10 @@ Meeting Agenda
 ### Pong
 - comet: Supercharge Machine Learning - a tool to save the experimental results
    - www.comet.ml
+- A paper: A disciplined approach to neural network hyper-parameters: Part 1 - learning rate, batch size, momentum, and weight decay
+   - https://arxiv.org/abs/1803.09820
+   - Ref tutorial link: https://www.datacamp.com/community/tutorials/cyclical-learning-neural-nets
+   - Keywords: LR Range Test, Cyclic Learning Rate, Super Convergence
 
 2018-12-07
 =====
