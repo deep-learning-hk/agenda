@@ -14,6 +14,11 @@ Meeting Agenda
 ### DVC (Data Science Version Control
 - https://dvc.org/
 
+## Open Sharing
+### Pong
+- comet: Supercharge Machine Learning - a tool to save the experimental results
+   - www.comet.ml
+
 2018-12-07
 =====
 
