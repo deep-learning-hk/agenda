@@ -1,6 +1,14 @@
 Meeting Agenda
 ==============
 
+Next meetup
+===========
+## Topic Sharing
+
+### State-of-the-art journey of NLP
+
+
+
 2019-02-03
 ===
 ## Topic Sharing
