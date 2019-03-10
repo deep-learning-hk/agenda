@@ -1,9 +1,12 @@
 Meeting Agenda
 ==============
 
-Next meetup
+2019-03-03 meetup
 ===========
 ## Topic Sharing
+
+Pong:
+- Seedbank by Google - a place to find the sample notebooks of Colab
 
 ### State-of-the-art journey of NLP
 
