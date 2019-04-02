@@ -4,12 +4,12 @@ Meeting Agenda
 2019-03-03 meetup
 ===========
 ## Topic Sharing
-
 Pong:
 - Seedbank by Google - a place to find the sample notebooks of Colab
 
 ### State-of-the-art journey of NLP
-
+- Example of BERT in AllenNLP by Roy:
+   - https://github.com/ylchan87/LiHKG_Post_NLP
 
 
 2019-02-03
