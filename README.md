@@ -1,5 +1,29 @@
 Meeting Agenda
 ==============
+2019-04-07 meetup
+===========
+## Short industrial updates
+
+### Kin:
+- Stanford HAI [link](https://hai.stanford.edu/)
+- Tensorflow 2.0
+  - [Aurélien Géron](https://www.youtube.com/watch?v=WTNH0tcscqo)
+  - Eager Execution as default == run immediately when you create it
+    - before: Construction phase, then Execution Phase with ```Session.run()```
+      - tho there is a ```tf.enable_eager_execution()``` for use in 1.4 vers
+    - now lazy execution is gone
+    - Still keeping the benefits of Graph:
+      1. Performance: directly run in GPU (not go back and forth w/ python and CPU) 
+      2. Portable: deploy in any device, not tied to particular language
+- Modin: a fast version of Pandas
+### Pong:
+- KDD cup 2019 launched!
+ - https://www.kdd.org/kdd2019/kdd-cup
+
+- MT-DNN released by microsoft: better than BERT?
+ - https://www.microsoft.com/en-us/research/blog/towards-universal-language-embeddings/
+
+
 
 2019-03-03 meetup
 ===========
