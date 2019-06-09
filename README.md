@@ -1,5 +1,20 @@
 Meeting Agenda
 ==============
+
+2019-06-16 meetup
+===========
+
+#### Venue
+- TBD
+
+## Main Topic
+- Weak Supervision (by Kin)
+- Clustering (by Pong)
+- GAN (TBC)
+
+## Short industrial updates
+
+
 2019-04-07 meetup
 ===========
 ## Short industrial updates
