@@ -1,16 +1,16 @@
 Meeting Agenda
 ==============
 
-2019-06-16 meetup
+2019-07-2 meetup
 ===========
 
 #### Venue
-- TBD
+- Tech Valley
+荔枝角青山道500號百美工業大廈6樓B2
 
 ## Main Topic
 - Weak Supervision (by Kin)
-- Clustering (by Pong)
-- GAN (TBC)
+- StarSapce (by LP Cheung)
 
 ## Short industrial updates
 
