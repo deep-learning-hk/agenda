@@ -1,7 +1,7 @@
 Meeting Agenda
 ==============
 
-2019-07-2 meetup
+2019-07-28 meetup
 ===========
 
 #### Venue
